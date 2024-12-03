@@ -9,10 +9,6 @@ const Headers = () => {
         <p className="text-white/60 hidden md:block">
           streamline your workflow and your productivity
         </p>
-        <div className="inline-flex gap-1 item-center">
-          <p>get started with us for free</p>
-          <ArrowRight className="w-5 h-5 ml-2" />
-        </div>
       </div>
       <div className="py-5 px-3 backdrop-blur-sm">
         <div className="items-center justify-between px-5 ">
