@@ -36,12 +36,7 @@ const Hero = () => {
               Celebrate the joy of accomplishment with an app designed to track
               your progress, motivate your efforts and celebrate your success.
             </p>
-            <div className="flex gap-3 items-center mt-6">
-              <Button variant="default">Get for free</Button>
-              <Button variant="ghost">
-                Learn more <ArrowRight className="w-5 h-5 ml-2" />
-              </Button>
-            </div>
+ 
           </div>
           <div className="mt-20 md:mt-0 md:h-[544px] md:flex-1 relative">
             <motion.img
